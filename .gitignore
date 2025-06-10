@@ -1,0 +1,15 @@
+# Virtual Environment
+myvenv/
+
+# Folder for user uploads
+uploads/
+
+# Training Dataset
+datasets_seg/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS-generated files (optional but good practice)
+.DS_Store
